@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RULEBOOK/How old is the dragon?/","tags":["gardenEntry"],"created":"2025-04-06T20:12:35.465+03:00","updated":"2025-04-10T13:28:35.444+03:00"}
+{"dg-publish":true,"permalink":"/RULEBOOK/How old is the dragon?/","tags":["gardenEntry"],"created":"2025-04-06T20:12:35.465+03:00","updated":"2025-04-10T13:39:53.705+03:00"}
 ---
 
 Вики-хранилище для моих ненаглядных игроков
@@ -7,5 +7,7 @@
 
 Нашли ошибку? Сообщите мне! 
  [:IbTwitter:](https://x.com/astbimorr?s=21&t=dAWsr_DpOfTVd7z7C-Cmwg) [:RiBlueskyLine:](https://bsky.app/profile/astbimorr.bsky.social) [:TiBrandTumblr:](https://pickled-mouse.tumblr.com/)
+
+:LiFeather:
 
 Пробник - [[RULEBOOK/Формат заклинаний\|ссылка]]
